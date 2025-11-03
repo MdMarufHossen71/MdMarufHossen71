@@ -172,6 +172,37 @@ const maruf = {
 
 ---
 
+## 🎮 Contribution Snake Game
+
+<div align="center">
+
+> Ever wonder what my contributions look like as a game? 🐍
+> My GitHub activity is like feeding a snake - each contribution grows the streak!
+
+```
+╔════════════════════════════════════════╗
+║  🐍 GitHub Contribution Snake Game   ║
+╠════════════════════════════════════════╣
+║ ███ ███ ███ ███ ███ ███ ███ ███ ███   ║
+║ ███ ███ ███ ███ ███ ███ ███ ███ ███   ║
+║ ███ ███ ███ ███ ███ ███ ███ ███ ███   ║
+║ ███ ███ ███ ███ ███ ███ ███ ███ ███   ║
+║                                         ║
+║  🎯 Each Commit = Snake Growing        ║
+║  🎯 Streaks = Power-ups                ║
+║  🎯 Repos = Levels Completed           ║
+║  🎯 Goal: Keep the Momentum Going!     ║
+║                                         ║
+║  SCORE: 100+ Contributions/Month       ║
+║  LEVEL: Full Stack Developer           ║
+║  STREAK: Always Learning & Building    ║
+╚════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
 ## 📝 Latest Blog Posts
 
 - Visit my [Medium](https://medium.com/@mdmarufhossen71) for articles on web development
@@ -185,5 +216,7 @@ const maruf = {
 ### 💡 "Code is poetry, design is art, and together they create magic."
 
 **Thank you for visiting my profile! Let's connect and build something amazing together.**
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 </div>
