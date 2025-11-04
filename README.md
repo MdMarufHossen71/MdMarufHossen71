@@ -123,7 +123,6 @@ const maruf = {
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdmarufhossen71&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9" alt="Contribution Graph"/>
 </div>
-<img src="https://github.com/MdMarufHossen71/MdMarufHossen71/blob/master/github-metrics.svg"  />
 
 ---
 
