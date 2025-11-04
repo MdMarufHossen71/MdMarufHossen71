@@ -28,7 +28,6 @@ jobs:
           #  - read:packages (for packages related data)
           #  - repo          (optional, for private repositories stats)
           token: ${{ secrets.METRICS_TOKEN }}
-
           # Options
           user: MdMarufHossen71  # Replace with your GitHub username
           template: classic
