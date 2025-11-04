@@ -172,32 +172,28 @@ const maruf = {
 
 ---
 
-## 🎮 Contribution Snake Game
+## 🐍 GitHub Contribution Snake Animation
 
 <div align="center">
 
-> Ever wonder what my contributions look like as a game? 🐍
-> My GitHub activity is like feeding a snake - each contribution grows the streak!
+### Watch the snake consume my contribution graph!
 
-```
-╔════════════════════════════════════════╗
-║  🐍 GitHub Contribution Snake Game   ║
-╠════════════════════════════════════════╣
-║ ███ ███ ███ ███ ███ ███ ███ ███ ███   ║
-║ ███ ███ ███ ███ ███ ███ ███ ███ ███   ║
-║ ███ ███ ███ ███ ███ ███ ███ ███ ███   ║
-║ ███ ███ ███ ███ ███ ███ ███ ███ ███   ║
-║                                         ║
-║  🎯 Each Commit = Snake Growing        ║
-║  🎯 Streaks = Power-ups                ║
-║  🎯 Repos = Levels Completed           ║
-║  🎯 Goal: Keep the Momentum Going!     ║
-║                                         ║
-║  SCORE: 100+ Contributions/Month       ║
-║  LEVEL: Full Stack Developer           ║
-║  STREAK: Always Learning & Building    ║
-╚════════════════════════════════════════╝
-```
+This is an interactive visualization of my GitHub contributions styled as a playable snake game. The snake pathfinds through a year of contribution data, creating a mesmerizing animation.
+
+**[▶ View the Snake Game](snake-game.html)**
+
+**Features:**
+- 📊 Full year (52 weeks) of GitHub-style contribution grid
+- 🐍 Animated snake that pathfinds through contributions
+- 🎨 Authentic GitHub contribution colors (levels 0-4)
+- ✨ Smooth glow effects as the snake moves
+- 🔄 Reset and replay anytime
+- 📱 Responsive design
+
+**How to use:**
+- Click "Watch Snake Game" to see the animation
+- Watch the orange snake consume the entire contribution grid
+- Click "Reset Graph" to generate new data and replay
 
 </div>
 
